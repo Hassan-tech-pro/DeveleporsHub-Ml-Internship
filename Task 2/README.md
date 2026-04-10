@@ -248,36 +248,6 @@ model.fit(X_train, y_train)
 
 ---
 
-## 📞 Contact & Support
-
-For questions or improvements to this project, please refer to the main AI/ML internship repository.
-
----
-
-## 📅 Project Timeline
-
-- **Start Date**: April 10, 2026
-- **Completion Date**: April 10, 2026
-- **Duration**: Single-day intensive project
-
----
-
-## ✅ Submission Checklist
-
-- ✓ Jupyter Notebook with clear problem statement
-- ✓ Dataset loading and preprocessing
-- ✓ Data visualization and exploration
-- ✓ Model training and evaluation
-- ✓ Explanation of results and final insights
-- ✓ Clean, modular, and commented code
-- ✓ Explanations of each major step
-- ✓ README.md with project summary
-- ✓ Task objective and goals documented
-- ✓ Dataset information included
-- ✓ Models applied documented
-- ✓ Key results and findings summarized
-
----
 
 **Created**: April 10, 2026  
 **Version**: 1.0  
